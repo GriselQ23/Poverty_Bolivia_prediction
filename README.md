@@ -2,7 +2,7 @@
 # Poverty Bolivia Prediction
 
 <p align="center">
-	<img src="https://img.icons8.com/color/48/000000/poverty.png" alt="Poverty Icon" width="40"/> 
+	<img src="https://sdgs.un.org/sites/default/files/goals/E_SDG_Icons-01.jpg" alt="No Poverty SDG Icon" width="40"/> 
 	<img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="AI Icon" width="40"/> 
 	<img src="https://img.icons8.com/color/48/000000/satellite.png" alt="Satellite Icon" width="40"/> 
 	<img src="https://img.icons8.com/color/48/000000/bolivia.png" alt="Bolivia Icon" width="40"/>
