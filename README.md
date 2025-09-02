@@ -36,7 +36,9 @@ The models classify poverty into three levels: low, medium, and high. The best p
 ### 1. Satellite Image Examples by Poverty Level
 
 
- ![Low Poverty Example](figures/low poverty.png "Example of low poverty area") | ![Medium Poverty Example](figures/medium poverty.png "Example of medium poverty area") | ![High Poverty Example](figure/high poverty.png "Example of high poverty area") |
+ ![Low Poverty Example](figures/low_poverty.png "Example of low poverty area") 
+ ![Medium Poverty Example](figures/medium_poverty.png "Example of medium poverty area") 
+ ![High Poverty Example](figures/high_poverty.png "Example of high poverty area")
 
 *Examples of satellite images for each poverty level (low, medium, high) used in the model.*
 
@@ -47,7 +49,7 @@ The models classify poverty into three levels: low, medium, and high. The best p
 
 
 
-*Graphs showing the model's accuracy and loss throughout the training process.*
+*Graph shows the model's accuracy and loss throughout the training process.*
 ---
 
 This project predicts poverty levels in Bolivia using deep learning, with a focus on convolutional neural networks (CNNs) and the ResNet architecture. The repository contains Jupyter notebooks for model training, evaluation, prediction, and visualization. 
