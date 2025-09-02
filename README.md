@@ -35,9 +35,8 @@ The models classify poverty into three levels: low, medium, and high. The best p
 
 ### 1. Satellite Image Examples by Poverty Level
 
-| Low Poverty | Medium Poverty | High Poverty |
-|-------------|---------------|--------------|
-| ![Low Poverty Example](figures/low poverty.png"Example of low poverty area") | ![Medium Poverty Example](figures/medium poverty.png "Example of medium poverty area") | ![High Poverty Example](figure/high poverty.png "Example of high poverty area") |
+
+ ![Low Poverty Example](figures/low poverty.png "Example of low poverty area") | ![Medium Poverty Example](figures/medium poverty.png "Example of medium poverty area") | ![High Poverty Example](figure/high poverty.png "Example of high poverty area") |
 
 *Examples of satellite images for each poverty level (low, medium, high) used in the model.*
 
@@ -46,8 +45,7 @@ The models classify poverty into three levels: low, medium, and high. The best p
 **Accuracy During Training**
 ![Model Accuracy](figures/precision.png "Model accuracy curve during training")
 
-**Accuracy During Training**
-![Model Loss](figures/perdida.png "Model loss curve during training")
+
 
 *Graphs showing the model's accuracy and loss throughout the training process.*
 ---
