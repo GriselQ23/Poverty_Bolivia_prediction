@@ -44,10 +44,10 @@ The models classify poverty into three levels: low, medium, and high. The best p
 ### 2. Model Training Performance
 
 **Accuracy During Training**
-![Model Accuracy](figure/precision.png "Model accuracy curve during training")
+![Model Accuracy](figures/precision.png "Model accuracy curve during training")
 
 **Accuracy During Training**
-![Model Loss](figure/perdida.png "Model loss curve during training")
+![Model Loss](figures/perdida.png "Model loss curve during training")
 
 *Graphs showing the model's accuracy and loss throughout the training process.*
 ---
