@@ -12,6 +12,8 @@
 
 Poverty eradication is a key challenge of the UN’s Sustainable Development Goals. In Bolivia, around 34% of the population (~3M people) lived in poverty in 2020, yet current data collection methods like censuses are expensive and infrequent.
 
+<img src="https://img.icons8.com/color/24/000000/database.png" width="20"/> <b>Dataset:</b> The dataset used in this project is available on Kaggle: [Poverty Bolivia Satellite Images Dataset](https://www.kaggle.com/datasets/griselquispearamayo/poverty-bolivia-satellite-images-dataset)
+
 This project proposes a machine learning approach using satellite imagery to estimate poverty in Bolivia, focusing on La Paz as a representative area. Images were collected from Google Static Maps (RGB), and a ResNet-50 model was used to classify areas into three levels of poverty using unsatisfied basic needs (UBN) surveys.
 
 ### Results
@@ -99,6 +101,7 @@ All dependencies are listed in `requirements.txt`. Main packages include:
 
 ## Notes
 - Some notebooks may require downloading datasets or pre-trained models. Please refer to the notebook instructions for details.
+- The main dataset is available at: [https://www.kaggle.com/datasets/griselquispearamayo/poverty-bolivia-satellite-images-dataset](https://www.kaggle.com/datasets/griselquispearamayo/poverty-bolivia-satellite-images-dataset)
 - For best results, use Python 3.7 or higher.
 
 ## License
